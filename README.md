@@ -14,7 +14,7 @@
 
 ## 官方下载与文件校验
 
-唯一官方发布地址：[Tomo4860/BigClassMod Releases](https://github.com/Tomo4860/BigClassMod/releases)。
+唯一官方发布地址：[Tomo4860/Worst-Class-Ever Releases]https://github.com/Tomo4860/Worst-Class-Ever)。
 下载 `BigClass-1.1.0.zip` 和同一版本的 `SHA256SUMS.txt`，安装前核对 SHA-256。
 
 在下载目录打开 PowerShell：
