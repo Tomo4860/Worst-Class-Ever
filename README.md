@@ -32,7 +32,6 @@ Get-FileHash -Algorithm SHA256 -LiteralPath '.\BepInEx\plugins\BigClassMod\BigCl
 
 DLL 的预期值见 `SHA256SUMS.txt` 的对应条目。如果不一致，请勿安装或运行。
 应从上述官方页面获取预期哈希；第三方同时篡改文件和校验文本时，仅比较两者没有意义。
-哈希校验只确认文件一致性，不等同于数字签名、安全审计或无恶意代码保证。
 
 ## 安装
 
